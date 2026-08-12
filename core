@@ -1,5 +1,10 @@
 font-family = "SauceCodePro NFM"
+font-style = Regular
 font-size = 16
+font-feature = -calt, -liga, -dlig
+font-thicken = true
+font-thicken-strength = 255
+alpha-blending = native
 
 theme = Ayu
 
