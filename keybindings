@@ -10,3 +10,6 @@ keybind = alt+l=goto_split:right
 
 keybind = cmd+shift+alt+[=move_tab:-1
 keybind = cmd+shift+alt+]=move_tab:1
+
+keybind = alt+cmd+k=scroll_page_lines:-1
+keybind = alt+cmd+j=scroll_page_lines:1
