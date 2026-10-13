@@ -14,6 +14,5 @@ cursor-style-blink = false
 
 copy-on-select = clipboard
 right-click-action = paste
-link-url = false
 
 split-divider-color = 5CBBF8
